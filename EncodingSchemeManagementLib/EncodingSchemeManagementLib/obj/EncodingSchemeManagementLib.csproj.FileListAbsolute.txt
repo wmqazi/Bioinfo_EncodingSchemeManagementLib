@@ -1,0 +1,28 @@
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.dll
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.pdb
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.EncodingSchemeDefinationWnd.resources
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.csproj.GenerateResource.Cache
+C:\Documents and Settings\Wajahat\Desktop\GEARS.G-P2P - Design Strategy 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.Properties.Resources.resources
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.dll
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.pdb
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\BinaryFileIOManager.dll
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\BinaryFileIOManager.pdb
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.EncodingSchemeDefinationWnd.resources
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.Properties.Resources.resources
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.csproj.GenerateResource.Cache
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.dll
+G:\Ph. D. Code Base\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.dll
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\BinaryFileIOManager.dll
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\BinaryFileIOManager.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.EncodingSchemeDefinationWnd.resources
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.Properties.Resources.resources
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.csproj.GenerateResource.Cache
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.dll
+D:\Ph. D. Code Base 2\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.pdb

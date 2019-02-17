@@ -1,0 +1,10 @@
+bin\Debug\EncodingSchemeManagementLib.dll
+bin\Debug\EncodingSchemeManagementLib.pdb
+bin\Debug\BinaryFileIOManager.dll
+bin\Debug\BinaryFileIOManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Qazi.EncodingSchemeManager.EncodingSchemeDefinationWnd.resources
+obj\Debug\Qazi.EncodingSchemeManager.Properties.Resources.resources
+obj\Debug\EncodingSchemeManagementLib.csproj.GenerateResource.Cache
+obj\Debug\EncodingSchemeManagementLib.dll
+obj\Debug\EncodingSchemeManagementLib.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EncodingSchemeManagementLib">
+</Property><Property Name="Solution File" Value="E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib.sln">
+</Property><Property Name="User Options File" Value="E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib.suo">
+</Property><Property Name="Date" Value="Tuesday, April 13, 2010">
+</Property><Property Name="Time" Value="13:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EncodingSchemeManagementLib.sln" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EncodingSchemeManagementLib.suo" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib.suo">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeManagementLib.csproj" Description="Project file successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\EncodingSchemeManagementLib.csproj">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingFormateConvertor.cs" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\EncodingFormateConvertor.cs">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeDefinationWnd.cs" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\EncodingSchemeDefinationWnd.cs">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeDefinationWnd.Designer.cs" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\EncodingSchemeDefinationWnd.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeDefinationWnd.resx" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\EncodingSchemeDefinationWnd.resx">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\Properties\Resources.resx" Description="File successfully backed up as E:\BINS versio\New folder\EncodingSchemeManagementLib\Backup\EncodingSchemeManagementLib\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeManagementLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeManagementLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EncodingSchemeManagementLib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EncodingSchemeManagementLib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EncodingSchemeManagementLib" Source="EncodingSchemeManagementLib\EncodingSchemeManagementLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

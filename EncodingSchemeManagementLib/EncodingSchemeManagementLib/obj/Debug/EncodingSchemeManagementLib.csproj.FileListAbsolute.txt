@@ -1,0 +1,10 @@
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.dll
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\EncodingSchemeManagementLib.pdb
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\BinaryFileIOManager.dll
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\bin\Debug\BinaryFileIOManager.pdb
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\ResolveAssemblyReference.cache
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.EncodingSchemeDefinationWnd.resources
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\Qazi.EncodingSchemeManager.Properties.Resources.resources
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.csproj.GenerateResource.Cache
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.dll
+E:\BINS versio\New folder\EncodingSchemeManagementLib\EncodingSchemeManagementLib\obj\Debug\EncodingSchemeManagementLib.pdb
